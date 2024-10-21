@@ -4,6 +4,8 @@ Project Details:
 
 Our project idea is Stop Food Waste. In our country during different program there are some large amount of food are being wasted. So we want to make a web app where people can donate that food to the poor needy people.
 
+ The basic concept of this project  Food Waste Management is to collect theexcess/leftover food from donors such as hotels, restaurants, marriage halls, etc and distribute to  the  needy people
+
 With this web app we are trying to solve the problem of food faced by a certain amount of people in our country. We also want to use mobile phone access to the users so that they can use mobile phone to access the web page.
 
 Features:
